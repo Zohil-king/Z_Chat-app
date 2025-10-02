@@ -65,7 +65,7 @@ textarea{width:100%;min-height:44px;max-height:140px;background:transparent;bord
 .footer {
   text-align: center;
   padding: 12px 8px;
-  background: #222;
+  background: #232;
   color: #fff;
   font-size: 14px;
   position: relative; /* not fixed, so it follows page content */
@@ -81,3 +81,4 @@ textarea{width:100%;min-height:44px;max-height:140px;background:transparent;bord
     padding: 8px 6px;
   }
 }
+
